@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Navigation Between Screens
 
 - [Introduction](#introduction)
@@ -69,3 +70,7 @@ Styling your screens is strongly recommended to improve the user interface.
 - [Button documentation](https://reactnative.dev/docs/button)
 - [TouchableOpacity documentation](https://reactnative.dev/docs/touchableopacity)
 - [React Navigation component](https://reactnavigation.org/docs/getting-started)
+=======
+# Calculadoras
+Calculadoras feitas com react native
+>>>>>>> 62c519392f23f0ee6ea0e13a6e12b0a96d4a129e
